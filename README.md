@@ -1,3 +1,3 @@
 # test-repo
 
-Adding some text
+Redoing some text
